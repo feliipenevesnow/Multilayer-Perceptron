@@ -6,3 +6,4 @@ Rede neural implementada, na matéria de redes neurais do meu curso de ciência 
 ![Matriz](https://github.com/feliipenevesnow/Pizzas-Truffle/assets/65624371/bff573bf-b1ba-4229-abe7-ef60f0db0d26)
 ![Teste](https://github.com/feliipenevesnow/Pizzas-Truffle/assets/65624371/9326cd52-bea2-49a6-b9ed-718e5851bbe1)
 ![Epocas](https://github.com/feliipenevesnow/Pizzas-Truffle/assets/65624371/2153a6d3-3e0d-42a4-ba63-880694140bc8)
+![Base](https://github.com/feliipenevesnow/Pizzas-Truffle/assets/65624371/9a835f0a-3aca-49f6-b199-6ac9a8759d46)
